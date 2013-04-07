@@ -1,4 +1,4 @@
-ads_premium
+ADS Premium
 ===========
 
-Provides premium features for ads distribution 
+Provides premium features for ADS Drupal distribution 
