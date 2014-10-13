@@ -1,0 +1,14 @@
+name = ADS Premium Users
+description = Provides a default integration for premium users.
+core = 7.x
+package = ADS Premium
+version = 7.x-1.0-alpha1
+dependencies[] = features
+features[features_api][] = api:2
+features[user_role][] = Bronze
+features[user_role][] = Diamond
+features[user_role][] = Gold
+features[user_role][] = Iron
+features[user_role][] = Platinum
+features[user_role][] = Silver
+project path = sites/all/modules/ads/ads_premium
