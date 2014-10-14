@@ -11,4 +11,5 @@ features[user_role][] = Gold
 features[user_role][] = Iron
 features[user_role][] = Platinum
 features[user_role][] = Silver
+features[user_role][] = Solitaire
 project path = sites/all/modules/ads/ads_premium

@@ -13,37 +13,43 @@ function ads_premium_users_user_default_roles() {
   // Exported role: Bronze.
   $roles['Bronze'] = array(
     'name' => 'Bronze',
-    'weight' => 3,
+    'weight' => 12,
   );
 
   // Exported role: Diamond.
   $roles['Diamond'] = array(
     'name' => 'Diamond',
-    'weight' => 9,
+    'weight' => 16,
   );
 
   // Exported role: Gold.
   $roles['Gold'] = array(
     'name' => 'Gold',
-    'weight' => 5,
+    'weight' => 14,
   );
 
   // Exported role: Iron.
   $roles['Iron'] = array(
     'name' => 'Iron',
-    'weight' => 8,
+    'weight' => 11,
   );
 
   // Exported role: Platinum.
   $roles['Platinum'] = array(
     'name' => 'Platinum',
-    'weight' => 6,
+    'weight' => 15,
   );
 
   // Exported role: Silver.
   $roles['Silver'] = array(
     'name' => 'Silver',
-    'weight' => 4,
+    'weight' => 13,
+  );
+
+  // Exported role: Solitaire.
+  $roles['Solitaire'] = array(
+    'name' => 'Solitaire',
+    'weight' => 17,
   );
 
   return $roles;
